@@ -1,0 +1,21 @@
+Console.WriteLine("Hello, World!");
+double bprice = 5.50;
+double lprice = 3;
+double mprice = 2.50;
+double sprice = 2;
+
+
+
+double bag = 52;
+double large =2;
+double medium =1;
+double small =1;
+
+double cost = (bag * bprice) + (lprice * large) + (medium * mprice) + (small * sprice);
+
+Console.WriteLine("Number of Bags Ordered: 52");
+Console.WriteLine("Box Used: ");
+Console.WriteLine("Large-2");
+Console.WriteLine("Medium-1");
+Console.WriteLine("Small-1");
+Console.WriteLine("Your Total cost is: $" + cost.ToString("N2"));
