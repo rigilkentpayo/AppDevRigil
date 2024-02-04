@@ -1,0 +1,10 @@
+Console.Write("Enter Length (in Centimeter)>>>");
+double fincm =(double)Convert.ToInt64(Console.ReadLine());
+double inches = Math.Round(fincm /2.54);
+
+int yards = (int)inches / 36;
+int feet = (int)inches % 36 / 12;
+inches = inches % 12;
+
+Console.WriteLine(yards + "Yards, " + feet + "Feet (foot), " + inches + "inches");
+
