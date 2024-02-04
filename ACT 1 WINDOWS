@@ -1,1 +1,16 @@
 
+double bprice = 5.50;
+double lprice = 3;
+double mprice = 2.50;
+double sprice = 2;
+
+
+
+double bag = Convert.ToInt64(bags.Text);
+double large = Convert.ToInt64(l.Text);
+double medium = Convert.ToInt64(m.Text);
+double small = Convert.ToInt64(s.Text);
+
+double cost = (bag * bprice) + (lprice * large) + (medium * mprice) + (small * sprice);
+
+total.Text = "Your Total cost is: $" + cost.ToString("N2");
