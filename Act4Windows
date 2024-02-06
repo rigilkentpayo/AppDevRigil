@@ -1,0 +1,22 @@
+Console.Write("Enter three numbers separated by spaces: ");
+String input = number.Text.ToString();
+String[] numbers = input.Split(' ');
+
+if (numbers.Length == 3)
+{
+    int num1 = int.Parse(numbers[0]);
+    int num2 = int.Parse(numbers[1]);
+    int num3 = int.Parse(numbers[2]);
+
+    int largest = num1;
+    if (num2 > largest)
+        largest = num2;
+    if (num3 > largest)
+        largest = num3;
+
+    result.Text ="Number " + largest + " is the largest.";
+}
+else
+{
+    Environment.Exit(0);
+}
