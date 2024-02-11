@@ -1,22 +1,16 @@
-Console.Write("Enter three numbers separated by spaces: ");
-String input = number.Text.ToString();
-String[] numbers = input.Split(' ');
+ int num1 = Convert.ToInt32(nums1.Text);
+ int num2 = Convert.ToInt32(nums2.Text);
+ int num3 = Convert.ToInt32(nums3.Text);
 
-if (numbers.Length == 3)
-{
-    int num1 = int.Parse(numbers[0]);
-    int num2 = int.Parse(numbers[1]);
-    int num3 = int.Parse(numbers[2]);
-
-    int largest = num1;
-    if (num2 > largest)
-        largest = num2;
-    if (num3 > largest)
-        largest = num3;
-
-    result.Text ="Number " + largest + " is the largest.";
-}
-else
-{
-    Environment.Exit(0);
-}
+ if (num1 > num2 && num1 > num3)
+ {
+     result.Text="Num1 is the largest" ;
+ }
+ else if (num2 > num1 && num2 > num3)
+ {
+     result.Text=("Num2 is the largest");
+ }
+ else
+ {
+     result.Text=("Num3 is the largest");
+ }
