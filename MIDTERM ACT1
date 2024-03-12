@@ -1,0 +1,51 @@
+using olympic;
+
+public class class2
+{
+    public static void Main(string[] args)
+    {
+        Class1 l = new Class1();
+        l.display();
+    }
+}
+
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace olympic
+{
+     class Class1
+    {
+     
+        public void display()
+        {
+            double[] score = new double[8];
+
+            for (int i = 0; i < 8; i++)
+            {
+                Console.Write("Enter the score of judge[" + (i + 1) + "]:");
+                score[i] = Convert.ToDouble(Console.ReadLine());
+            }
+            double total = 0;
+            for (int l = 0; l < 8; l++)
+            {
+
+                total += score[l];
+            }
+
+            double max = score.Max();
+            double min = score.Min();
+
+            double all = total - max;
+            all = all - min;
+            Console.WriteLine("the contestant receoves a total of " + all.ToString("N2") + " points.");
+        }
+    }
+}
+
+
