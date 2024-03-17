@@ -1,0 +1,33 @@
+C:\Users\danie\Documents\C# Repos\Hangman\Hangman\bin\Debug\net8.0-windows\Hangman.exe
+C:\Users\danie\Documents\C# Repos\Hangman\Hangman\bin\Debug\net8.0-windows\Hangman.deps.json
+C:\Users\danie\Documents\C# Repos\Hangman\Hangman\bin\Debug\net8.0-windows\Hangman.runtimeconfig.json
+C:\Users\danie\Documents\C# Repos\Hangman\Hangman\bin\Debug\net8.0-windows\Hangman.dll
+C:\Users\danie\Documents\C# Repos\Hangman\Hangman\bin\Debug\net8.0-windows\Hangman.pdb
+C:\Users\danie\Documents\C# Repos\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.csproj.GenerateResource.cache
+C:\Users\danie\Documents\C# Repos\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\C# Repos\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\C# Repos\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.AssemblyInfo.cs
+C:\Users\danie\Documents\C# Repos\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\C# Repos\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.dll
+C:\Users\danie\Documents\C# Repos\Hangman\Hangman\obj\Debug\net8.0-windows\refint\Hangman.dll
+C:\Users\danie\Documents\C# Repos\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.pdb
+C:\Users\danie\Documents\C# Repos\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.genruntimeconfig.cache
+C:\Users\danie\Documents\C# Repos\Hangman\Hangman\obj\Debug\net8.0-windows\ref\Hangman.dll
+C:\Users\danie\Documents\C# Repos\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.Hangman.resources
+C:\Users\rigil\OneDrive\Desktop\Hangman\Hangman\Hangman\bin\Debug\net8.0-windows\Hangman.exe
+C:\Users\rigil\OneDrive\Desktop\Hangman\Hangman\Hangman\bin\Debug\net8.0-windows\Hangman.deps.json
+C:\Users\rigil\OneDrive\Desktop\Hangman\Hangman\Hangman\bin\Debug\net8.0-windows\Hangman.runtimeconfig.json
+C:\Users\rigil\OneDrive\Desktop\Hangman\Hangman\Hangman\bin\Debug\net8.0-windows\Hangman.dll
+C:\Users\rigil\OneDrive\Desktop\Hangman\Hangman\Hangman\bin\Debug\net8.0-windows\Hangman.pdb
+C:\Users\rigil\OneDrive\Desktop\Hangman\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.Hangman.resources
+C:\Users\rigil\OneDrive\Desktop\Hangman\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.csproj.GenerateResource.cache
+C:\Users\rigil\OneDrive\Desktop\Hangman\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rigil\OneDrive\Desktop\Hangman\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.AssemblyInfoInputs.cache
+C:\Users\rigil\OneDrive\Desktop\Hangman\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.AssemblyInfo.cs
+C:\Users\rigil\OneDrive\Desktop\Hangman\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\rigil\OneDrive\Desktop\Hangman\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.dll
+C:\Users\rigil\OneDrive\Desktop\Hangman\Hangman\Hangman\obj\Debug\net8.0-windows\refint\Hangman.dll
+C:\Users\rigil\OneDrive\Desktop\Hangman\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.pdb
+C:\Users\rigil\OneDrive\Desktop\Hangman\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.genruntimeconfig.cache
+C:\Users\rigil\OneDrive\Desktop\Hangman\Hangman\Hangman\obj\Debug\net8.0-windows\ref\Hangman.dll
+C:\Users\rigil\OneDrive\Desktop\Hangman\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.Form1.resources
