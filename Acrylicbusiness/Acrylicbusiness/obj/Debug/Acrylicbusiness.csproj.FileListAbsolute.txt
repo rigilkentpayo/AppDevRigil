@@ -1,0 +1,12 @@
+F:\2nd SEMESTER\Acrylicbusiness\Acrylicbusiness\obj\Debug\Acrylicbusiness.csproj.AssemblyReference.cache
+F:\2nd SEMESTER\Acrylicbusiness\Acrylicbusiness\obj\Debug\Acrylicbusiness.Form1.resources
+F:\2nd SEMESTER\Acrylicbusiness\Acrylicbusiness\obj\Debug\Acrylicbusiness.Properties.Resources.resources
+F:\2nd SEMESTER\Acrylicbusiness\Acrylicbusiness\obj\Debug\Acrylicbusiness.csproj.GenerateResource.cache
+F:\2nd SEMESTER\Acrylicbusiness\Acrylicbusiness\obj\Debug\Acrylicbusiness.csproj.CoreCompileInputs.cache
+F:\2nd SEMESTER\Acrylicbusiness\Acrylicbusiness\bin\Debug\Acrylicbusiness.exe.config
+F:\2nd SEMESTER\Acrylicbusiness\Acrylicbusiness\bin\Debug\Acrylicbusiness.exe
+F:\2nd SEMESTER\Acrylicbusiness\Acrylicbusiness\bin\Debug\Acrylicbusiness.pdb
+F:\2nd SEMESTER\Acrylicbusiness\Acrylicbusiness\obj\Debug\Acrylicbusiness.exe
+F:\2nd SEMESTER\Acrylicbusiness\Acrylicbusiness\obj\Debug\Acrylicbusiness.pdb
+F:\2nd SEMESTER\Acrylicbusiness\Acrylicbusiness\bin\Debug\User.accdb
+F:\2nd SEMESTER\Acrylicbusiness\Acrylicbusiness\obj\Debug\Acrylicbusiness.Form2.resources
